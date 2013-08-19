@@ -1,0 +1,9 @@
+12,Evolutionary Comp,Andy Roberts,12/12/12,3
+23,Computer Science,Thomas Verme,23/12/20,4
+46,Evolutionary Comp,Michael Smith,12/01/10,4
+61,Fuzzy Logic and App,John Peterson,13/01/10,3
+118,Neural Networks,Arthur London,20/01/10,5
+123,Computer Science,Zhou You,12/12/12,3
+200,Evolutionary Comp,Scott Jones,30/01/10,1
+210,Fuzzy Logic and App,Joe Wang,01/02/10,4
+231,Network Security,Micheal Owen,02/01/05,5
